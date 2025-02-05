@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be6d0288-cc2e-4246-b87f-dcf5fef08440)# 🎉 Challenge Amigo Secreto
+# 🎉 Challenge Amigo Secreto
 
 ## Descrição
 
