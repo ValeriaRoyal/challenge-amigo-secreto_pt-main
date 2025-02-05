@@ -34,18 +34,19 @@ Adicione capturas de tela do projeto para melhor visualização.
 
 ## 🤝 Contribuição
 
-  Contribuições são bem-vindas! Para contribuir:
-  
-  1. Faça um fork do repositório.
-  2. Crie uma branch para sua feature:
+Contribuições são bem-vindas! Para contribuir:
 
-  3. Faça commit das suas alterações:
-
-  4. Envie para o repositório remoto:
-
-  5. Abra um Pull Request.
+1. Clone este repositório:
+2. Crie uma branch para sua feature:
+   ```bash
+   git checkout -b minha-feature
+3. Faça commit das suas alterações:
+   ```bash
+   git commit -m "Adiciona nova funcionalidade"
+4. Faça commit das suas alterações:
+   ```bash
+   git push origin minha-feature
+5. Abra um Pull Request.
 
 ## 📄 Licença
 Este projeto está sob a licença MIT.
-
-   
