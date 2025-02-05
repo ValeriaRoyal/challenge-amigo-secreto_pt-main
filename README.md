@@ -32,13 +32,13 @@ Este projeto é uma aplicação web que permite aos usuários organizar um sorte
 
 ## Solução de Problemas 🔧
 
-- **Campo de texto vazio:
+- Campo de texto vazio:
    ⚠️ Se aparecer um alerta, verifique se o nome foi digitado corretamente antes de adicionar.
 
-- **Nomes não aparecem na lista:
+- Nomes não aparecem na lista:
    Recarregue a página e adicione os nomes novamente.
 
-- **JavaScript desabilitado:
+- JavaScript desabilitado:
    A aplicação requer JavaScript. Habilite-o nas configurações do navegador.
 
 ## 🛠 Como Executar o Projeto
