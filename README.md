@@ -4,9 +4,10 @@
 
 Este projeto é uma aplicação web que permite aos usuários organizar um sorteio de amigo secreto. Os participantes inserem seus nomes em uma lista e, ao final, um sorteio aleatório determina quem será o "amigo secreto".
 
-![image](https://github.com/user-attachments/assets/449951a7-ae63-4d04-a656-cd1e7d98266a)
+![image](https://github.com/user-attachments/assets/449951a7-ae63-4d04-a656-cd1e7d98266a) ![image](https://github.com/user-attachments/assets/06061eb8-5b90-47d1-95f2-4f827302e6c6)
 
-## 🚀 Funcionalidades
+
+## ✨ Funcionalidades
 
 - **Adicionar participantes**: Insira nomes via campo de texto e botão "Adicionar".
 - **Validação de entrada**: Alerta se o campo estiver vazio.
@@ -25,14 +26,14 @@ Este projeto é uma aplicação web que permite aos usuários organizar um sorte
 - CSS3
 - JavaScript (Vanilla)
 
-## Estrutura do Projeto 📂
+## 📂 Estrutura do Projeto
 
 - index.html   # Estrutura principal da página
 - styles.css   # Estilização da interface
 - script.js   # Lógica de adição e sorteio
 - README.md   # Documentação do projeto
 
-## Solução de Problemas 🔧
+## 🔧 Solução de Problemas
 
 - Campo de texto vazio:
    ⚠️ Se aparecer um alerta, verifique se o nome foi digitado corretamente antes de adicionar.
@@ -74,5 +75,5 @@ Contribuições são bem-vindas! Para contribuir:
    git push origin minha-feature
 5. Abra um Pull Request.
 
-## 📄 Licença
+## 📜 Licença
 Este projeto está sob a licença MIT.
