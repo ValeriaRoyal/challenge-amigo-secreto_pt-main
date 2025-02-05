@@ -4,7 +4,7 @@
 
 Este projeto é uma aplicação web que permite aos usuários organizar um sorteio de amigo secreto. Os participantes inserem seus nomes em uma lista e, ao final, um sorteio aleatório determina quem será o "amigo secreto".
 
-(![image](https://github.com/user-attachments/assets/449951a7-ae63-4d04-a656-cd1e7d98266a) <!-- Adicione uma captura de tela real do projeto aqui -->
+![image](https://github.com/user-attachments/assets/449951a7-ae63-4d04-a656-cd1e7d98266a)
 
 ## 🚀 Funcionalidades
 
