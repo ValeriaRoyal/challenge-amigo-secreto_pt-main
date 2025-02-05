@@ -24,22 +24,22 @@ Este projeto é uma aplicação web que permite aos usuários organizar um sorte
 - JavaScript (Vanilla)
 
 ## Estrutura do Projeto 📂
-.
-├── index.html          # Estrutura principal da página
-├── styles.css          # Estilização da interface
-├── script.js           # Lógica de adição e sorteio
-└── README.md           # Documentação do projeto
+
+- index.html          # Estrutura principal da página
+- styles.css          # Estilização da interface
+- script.js           # Lógica de adição e sorteio
+- README.md           # Documentação do projeto
 
 ## Solução de Problemas 🔧
 
-- Campo de texto vazio:
-⚠️ Se aparecer um alerta, verifique se o nome foi digitado corretamente antes de adicionar.
+- **Campo de texto vazio:
+   ⚠️ Se aparecer um alerta, verifique se o nome foi digitado corretamente antes de adicionar.
 
-Nomes não aparecem na lista:
-Recarregue a página e adicione os nomes novamente.
+- **Nomes não aparecem na lista:
+   Recarregue a página e adicione os nomes novamente.
 
-JavaScript desabilitado:
-A aplicação requer JavaScript. Habilite-o nas configurações do navegador.
+- **JavaScript desabilitado:
+   A aplicação requer JavaScript. Habilite-o nas configurações do navegador.
 
 ## 🛠 Como Executar o Projeto
 
