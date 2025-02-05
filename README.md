@@ -6,16 +6,40 @@ Este projeto é uma aplicação web que permite aos usuários organizar um sorte
 
 ## 🚀 Funcionalidades
 
-- **Adicionar nomes**: Os usuários podem inserir nomes em um campo de texto e adicioná-los à lista clicando no botão "Adicionar".
-- **Validação de entrada**: Caso o campo de texto esteja vazio, um alerta será exibido solicitando um nome válido.
-- **Visualização da lista**: Os nomes adicionados aparecerão em uma lista visível na página.
-- **Sorteio aleatório**: Um botão "Sortear Amigo" permite realizar o sorteio, selecionando um nome da lista de forma aleatória e exibindo o resultado na tela.
+- **Adicionar participantes**: Insira nomes via campo de texto e botão "Adicionar".
+- **Validação de entrada**: Alerta se o campo estiver vazio.
+- **Lista visual**: Exibe todos os nomes adicionados em tempo real.
+- **Sorteio aleatório**: Seleciona um participante aleatório ao clicar em "Sortear Amigo".
+- **Interface simples**: Design intuitivo e fácil de usar.
+
+## Pré-requisitos
+
+- Navegador moderno (Chrome, Firefox, Edge, etc.).
+- JavaScript habilitado.
 
 ## 📦 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
+
+## Estrutura do Projeto 📂
+.
+├── index.html          # Estrutura principal da página
+├── styles.css          # Estilização da interface
+├── script.js           # Lógica de adição e sorteio
+└── README.md           # Documentação do projeto
+
+## Solução de Problemas 🔧
+
+- Campo de texto vazio:
+⚠️ Se aparecer um alerta, verifique se o nome foi digitado corretamente antes de adicionar.
+
+Nomes não aparecem na lista:
+Recarregue a página e adicione os nomes novamente.
+
+JavaScript desabilitado:
+A aplicação requer JavaScript. Habilite-o nas configurações do navegador.
 
 ## 🛠 Como Executar o Projeto
 
