@@ -1,8 +1,10 @@
-# 🎉 Challenge Amigo Secreto
+![image](https://github.com/user-attachments/assets/be6d0288-cc2e-4246-b87f-dcf5fef08440)# 🎉 Challenge Amigo Secreto
 
 ## Descrição
 
 Este projeto é uma aplicação web que permite aos usuários organizar um sorteio de amigo secreto. Os participantes inserem seus nomes em uma lista e, ao final, um sorteio aleatório determina quem será o "amigo secreto".
+
+![Demonstração da aplicação](![image](https://github.com/user-attachments/assets/449951a7-ae63-4d04-a656-cd1e7d98266a) <!-- Adicione uma captura de tela real do projeto aqui -->
 
 ## 🚀 Funcionalidades
 
@@ -25,10 +27,10 @@ Este projeto é uma aplicação web que permite aos usuários organizar um sorte
 
 ## Estrutura do Projeto 📂
 
-- index.html          # Estrutura principal da página
-- styles.css          # Estilização da interface
-- script.js           # Lógica de adição e sorteio
-- README.md           # Documentação do projeto
+- index.html   # Estrutura principal da página
+- styles.css   # Estilização da interface
+- script.js   # Lógica de adição e sorteio
+- README.md   # Documentação do projeto
 
 ## Solução de Problemas 🔧
 
