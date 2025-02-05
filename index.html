@@ -21,7 +21,8 @@
             <h2 class="section-title">Digite o nome dos seus amigos</h2>
             <div class="input-wrapper">
                 <input type="text" id="amigo" class="input-name" placeholder="Digite um nome">
-                <button class="button-add" onclick="adicionarAmigo()">Adicionar</button>
+                <label for="amigo" class="sr-only">Nome do participante</label>
+                <button class="button-add" onclick="adicionarAmigo()" aria-label="Adicionar nome à lista">Adicionar</button>
             </div>
            
             <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
